@@ -16,15 +16,18 @@ I Made these because there is no well-detailed or structured GitHub or even onli
 
 I hope you will come up with your own ideas, so crack on and enjoy!
 
-Mycobot doing tasks
+Mycobot doing tasks->
+	
 	Chinese Pose:
 By hard coding it is possible with the robot to make some Chinese pose which carries meaning in it e.g Lucy pose etc.
 Attach pic:
 Code:
+	
 	Fanning:
 It is able to move in a rhythmic way both horizontally and vertically synced that makes a fanning effect when a flat surface/fan is attached to the end effector. 
 Attach pic:
 Code:
+	
 	Dancing:
 This is inspired by a YouTube video where the robot was made to swing side-by-side. It is hard programmed in a combination of some flexible poses that give it a dancing movement. It seems really nice when you run the code playing a music in background.
 Attach pic:
