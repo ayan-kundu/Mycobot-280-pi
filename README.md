@@ -31,9 +31,9 @@ It is hard coding the robot which lets a beginer make the robot do some interest
 
 Demo->
 
-![Using myBlockly]()
+![Using myBlockly](https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1356.jpg)
 
-![Using python]()
+![Using python](https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1361.jpg)
 
 **Mycobot doing tasks->**
 	
