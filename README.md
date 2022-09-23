@@ -15,9 +15,9 @@ This directory is for those who are starting their journey with Mycobot. It is n
 All detailed instructions are stated here with clean code and visualisation and demonstrations.
 It is hard coding the robot which lets a beginer make the robot do some interesting tasks like : Fanning and later on dancing and so on are amazing to start up with. 
 
-- [ ] I Made these because repository as there is no well-detailed or structured GitHub or even online tutorial(except some random mycobot videos) based on how mycobot robot can be operated with a hope to help others working with Mycobot series
+- [x] I Made these because repository as there is no well-detailed or structured GitHub or even online tutorial(except some random mycobot videos) based on how mycobot robot can be operated with a hope to help others working with Mycobot series
 
-- [ ] I letter on implemented Learning from Demonstration : LfD to deliver an AI task which is basically pick and place an object. Should you are interested, please check -> [My GitHub Page](https://github.com/ayan-kundu/Dynamic-Movement-Premitives-LfD-)
+- [x] I letter on implemented Learning from Demonstration : LfD to deliver an AI task which is basically pick and place an object. Should you are interested, please check -> [My GitHub Page](https://github.com/ayan-kundu/Dynamic-Movement-Premitives-LfD-)
 
 - [x] I hope you will come up with your own ideas, so crack on and enjoy :tada:
 
@@ -25,15 +25,15 @@ It is hard coding the robot which lets a beginer make the robot do some interest
 	
 	1. Chinese Pose:
 By hard coding it is possible with the robot to make some Chinese pose which carries meaning in it e.g Lucy pose etc.
-Attach pic:
-Code:
+_Demonstartion:_
+_Code_
 	
 	2. Fanning:
 It is able to move in a rhythmic way both horizontally and vertically synced that makes a fanning effect when a flat surface/fan is attached to the end effector. 
-Attach pic:
-Code:
+_Demonstartion:_
+_Code_
 	
 	3. Dancing:
 This is inspired by a YouTube video where the robot was made to swing side-by-side. It is hard programmed in a combination of some flexible poses that give it a dancing movement. It seems really nice when you run the code playing a music in background.
-Attach pic:
-Code:
+_Demonstartion:_
+_Code_
