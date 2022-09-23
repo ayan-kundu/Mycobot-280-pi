@@ -42,6 +42,7 @@ It is able to move in a rhythmic way both horizontally and vertically synced tha
 
 _Demonstartion:_
 (https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/txt.txt	
+
 	3. Dancing:
 This is inspired by a YouTube video where the robot was made to swing side-by-side. It is hard programmed in a combination of some flexible poses that give it a dancing movement. It seems really nice when you run the code playing a music in background.
 
