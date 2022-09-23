@@ -18,7 +18,7 @@
 
   >Requirements for Mycobot M:
   >
-  An external computer (usb 2.0(computer side) to usb C(robot base side))
+  -An external computer (usb 2.0(computer side) to usb C(robot base side))
 
 3. **Software Connectivity:**
 Mycobot M series requites burn the Basic and Atom whereas you gotta burn the Atom only in case of pi series.
