@@ -13,7 +13,7 @@ This directory is for those who are starting their journey with Mycobot. It is n
 
 ↪️ Please refer to [Setup Mycobot](https://github.com/ayan-kundu/Mycobot-280-pi/tree/main/Setup_Mycobot) dir for setting up the robot to begin working with. 👁️ Don't forget to check ReadMe file first.
 
-↪️ When your robt is ready(ATOM LED on, Calibration done etc.) refer to either [myBlockly]() or [python]() dir to program the robot. 👁️ Don't forget to check ReadMe file first.
+↪️ When your robt is ready(ATOM LED on, Calibration done etc.) refer to either [myBlockly](https://github.com/ayan-kundu/Mycobot-280-pi/tree/main/MyBlockly) or [python](https://github.com/ayan-kundu/Mycobot-280-pi/tree/main/Python_scripts) dir to program the robot. 👁️ Don't forget to check ReadMe file first.
 
 All detailed instructions are stated here with clean code and visualisation and demonstrations.
 It is hard coding the robot which lets a beginer make the robot do some interesting tasks like : Fanning and later on dancing and so on are amazing to start up with. 
