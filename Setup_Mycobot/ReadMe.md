@@ -27,13 +27,13 @@ Mycobot M series requites burn the Basic and Atom whereas you gotta burn the Ato
 
 > Please refer 'how to burn file' to [burn](https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Setup_Mycobot/How%20to%20burn%20Firmware%20for%20myCobot%20280%20and%20myCobot320.docx) <<-
 
-[connectivity](https://github.com/ayan-kundu/Mycobot-280-pi/tree/main/MyBlockly#readme)
+[Check Connectivity](https://github.com/ayan-kundu/Mycobot-280-pi/tree/main/MyBlockly#readme)
 
 4. **Ready for operation: :tada:**
 
 As you realise now that in case of M series you need an external system to code/program the robot but with pi you do not require any external computing system attached to it. 
 
 5. **Open myBolockly** if you are comfortable with that. If you are familiar with python you can write your code in editor (downloadable) and run it through terminal.
-    ![Mycobot]()
+    ![Mycobot](https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1362.jpg)
 6. **Installation reference issues**
 https://github.com/elephantrobotics/pymycobot
