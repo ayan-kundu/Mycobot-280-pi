@@ -1,6 +1,6 @@
 ## **Here you will find how to program the robot using Myblockly visual programming software**
 
--When it is installed in mycobot pi Base or in your own system in case you are programing mycobot M5 series robot, Establish connection in between the robot and the software. Refer the following images
+- [x] When it is installed in mycobot pi Base or in your own system in case you are programing mycobot M5 series robot, Establish connection in between the robot and the software. Refer the following images
 
 ![Communication Establishment]()
 
