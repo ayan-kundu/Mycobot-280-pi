@@ -11,7 +11,8 @@ This directory is for those who are starting their journey with Mycobot. It is n
 3. How to programe it both using myblockly and python(in case you are more familiar with)
 4. Two operations I came up while I was at beginers' stage e.g. Fanning and dancing . Alongside you will be able to familiarise yourself how to make several meaning ful poses.
 
-↪️ Please refer to [Setup Mycobot]() dir for setting up the robot to begin working with. 👁️ Don't forget to check ReadMe file first.
+↪️ Please refer to [Setup Mycobot](https://github.com/ayan-kundu/Mycobot-280-pi/tree/main/Setup_Mycobot) dir for setting up the robot to begin working with. 👁️ Don't forget to check ReadMe file first.
+
 ↪️ When your robt is ready(ATOM LED on, Calibration done etc.) refer to either [myBlockly]() or [python]() dir to program the robot. 👁️ Don't forget to check ReadMe file first.
 
 All detailed instructions are stated here with clean code and visualisation and demonstrations.
