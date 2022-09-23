@@ -20,7 +20,7 @@ It is hard coding the robot which lets a beginer make the robot do some interest
 
 - [x] I Made these because repository as there is no well-detailed or structured GitHub or even online tutorial(except some random mycobot videos) based on how mycobot robot can be operated with a hope to help others working with Mycobot series 👍 
 
-- [x] I letter on implemented Learning from Demonstration : LfD to deliver an AI task which is basically pick and place an object. Should you are interested, please check -> [My GitHub Page](https://github.com/ayan-kundu/Dynamic-Movement-Premitives-LfD-)
+- [x] I letter on implemented Learning from Demonstration : LfD to deliver an AI task which is basically pick and place an object. Should you are interested, please check -> [My LfD GitHub Page](https://github.com/ayan-kundu/Dynamic-Movement-Premitives-LfD-)
 
 - [x] I hope you will come up with your own ideas, so crack on and enjoy :tada:
 
