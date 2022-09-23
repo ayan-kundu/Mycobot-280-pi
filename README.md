@@ -15,7 +15,7 @@ This directory is for those who are starting their journey with Mycobot. It is n
 
 >I Made these because there is no well-detailed or structured GitHub or even online tutorial(except some random mycobot videos) based on how mycobot can be operated and letter on implemented with LfD(refer to Learning from Demonstation repo) to deliver an AI task .
 
-- [ ] I hope you will come up with your own ideas, so crack on and enjoy!:+1:
+- [x] I hope you will come up with your own ideas, so crack on and enjoy!:+1:
 
 Mycobot doing tasks->
 	
