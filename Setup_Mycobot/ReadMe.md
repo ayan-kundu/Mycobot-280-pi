@@ -15,7 +15,8 @@
   > Requirements for Mycobot pi:
   > 
   - A monitor, key board, mouse, HDMI cable
-    ![robot online]()
+    ![monitor](https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1359.jpg)
+    ![keyboard,mouse](https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1360.jpg)
   >Requirements for Mycobot M:
   >
   - An external computer (usb 2.0(computer side) to usb C(robot base side))
@@ -23,9 +24,10 @@
 3. **Software Connectivity:**
 
 Mycobot M series requites burn the Basic and Atom whereas you gotta burn the Atom only in case of pi series.
-[mystudio]()
 
 > Please refer 'how to burn file' to [burn](https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Setup_Mycobot/How%20to%20burn%20Firmware%20for%20myCobot%20280%20and%20myCobot320.docx) <<-
+
+[connectivity](https://github.com/ayan-kundu/Mycobot-280-pi/tree/main/MyBlockly#readme)
 
 4. **Ready for operation: :tada:**
 
