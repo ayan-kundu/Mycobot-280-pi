@@ -24,7 +24,7 @@
 
 Mycobot M series requites burn the Basic and Atom whereas you gotta burn the Atom only in case of pi series.
 
-> Please refer this to burn ->
+> Please refer this to [burn] <<-(https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Setup_Mycobot/How%20to%20burn%20Firmware%20for%20myCobot%20280%20and%20myCobot320.docx)
 
 4. **Ready for operation: :tada:**
 
