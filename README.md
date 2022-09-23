@@ -11,12 +11,13 @@ This directory is for those who are starting their journey with Mycobot. It is n
 3. How to programe it both using myblockly and python(in case you are more familiar with)
 4. Two operations I came up while I was at beginers' stage e.g. Fanning and dancing . Alongside you will be able to familiarise yourself how to make several meaning ful poses.
 
->All detailed instructions are stated here with clean code and visualisation and demonstrations. The hard coding which let the robot do some interesting tasks like : Fanning and later on dancing and so on are amazing to start up with. 
+```
+All detailed instructions are stated here with clean code and visualisation and demonstrations. The hard coding which let the robot do some interesting tasks like : Fanning and later on dancing and so on are amazing to start up with. 
 
->I Made these because there is no well-detailed or structured GitHub or even online tutorial(except some random mycobot videos) based on how mycobot can be operated and letter on implemented with LfD(refer to Learning from Demonstation repo) to deliver an AI task .
+I Made these because there is no well-detailed or structured GitHub or even online tutorial(except some random mycobot videos) based on how mycobot can be operated and letter on implemented with LfD(refer to Learning from Demonstation repo) to deliver an AI task .
 
-- [x] I hope you will come up with your own ideas, so crack on and enjoy!:+1:
-
+- [x] I hope you will come up with your own ideas, so crack on and enjoy :tada:
+```
 Mycobot doing tasks->
 	
 	Chinese Pose:
