@@ -21,19 +21,28 @@ It is hard coding the robot which lets a beginer make the robot do some interest
 
 - [x] I hope you will come up with your own ideas, so crack on and enjoy :tada:
 
+**You can code using myBlockly or python. Both are available in this repo**
+
+Demo->
+
+![Using myBlockly]()
+
+![Using python]()
+
 **Mycobot doing tasks->**
 	
 	1. Chinese Pose:
 By hard coding it is possible with the robot to make some Chinese pose which carries meaning in it e.g Lucy pose etc.
+
 _Demonstartion:_
-_Code_
+
 	
 	2. Fanning:
 It is able to move in a rhythmic way both horizontally and vertically synced that makes a fanning effect when a flat surface/fan is attached to the end effector. 
+
 _Demonstartion:_
-_Code_
 	
 	3. Dancing:
 This is inspired by a YouTube video where the robot was made to swing side-by-side. It is hard programmed in a combination of some flexible poses that give it a dancing movement. It seems really nice when you run the code playing a music in background.
+
 _Demonstartion:_
-_Code_
