@@ -2,11 +2,11 @@
 
 - [x] When it is installed in mycobot pi Base or in your own system in case you are programing mycobot M5 series robot, Establish connection in between the robot and the software. Refer the following images
 
-![Communication Establishment]()
+![Communication Establishment](https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1356.jpg)
 
 :tada:Successful Connection looks like this:-
 
-![Communication Established]()
+![Communication Established](https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1358.jpg)
 
 #### **Load .xml files onto Myblockly**
 
