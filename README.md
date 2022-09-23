@@ -1,7 +1,7 @@
 # Mycobot-280-pi
-Operating Mycobot {{ Beginers' tutorial and demonstrations }}
+## Operating Mycobot {{ Beginers' tutorial and demonstrations }}
 
-Beginer’s dir:-
+#### Beginer’s dir:-
 
 This directory is for those who are starting their journey with Mycobot. It is not necessary to state that the code is applicable to Mycobot M and pi series without any change required.
  
