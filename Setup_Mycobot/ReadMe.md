@@ -13,9 +13,11 @@
 2. **Check Physical Connectivity:**
 
   > Requirements for Mycobot pi:
+  > 
   - A monitor, key board, mouse, HDMI cable
 
   >Requirements for Mycobot M:
+  >
   An external computer (usb 2.0(computer side) to usb C(robot base side))
 
 3. **Software Connectivity:**
