@@ -21,13 +21,13 @@
   -An external computer (usb 2.0(computer side) to usb C(robot base side))
 
 3. **Software Connectivity:**
+
 Mycobot M series requites burn the Basic and Atom whereas you gotta burn the Atom only in case of pi series.
 
 > Please refer this to burn ->
 
 4. **Ready for operation: :tada:**
+
 As you realise now that in case of M series you need an external system to code/program the robot but with pi you do not require any external computing system attached to it. 
 
 5. **Open myBolockly** if you are comfortable with that. If you are familiar with python you can write your code in editor (downloadable) and run it through terminal.
-
-
