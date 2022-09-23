@@ -33,3 +33,5 @@ As you realise now that in case of M series you need an external system to code/
 
 5. **Open myBolockly** if you are comfortable with that. If you are familiar with python you can write your code in editor (downloadable) and run it through terminal.
     ![Mycobot]()
+6. **Installation reference issues**
+https://github.com/elephantrobotics/pymycobot
