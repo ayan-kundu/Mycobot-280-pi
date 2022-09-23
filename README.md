@@ -1,5 +1,5 @@
 # Mycobot-280-pi
-## Operating Mycobot {{ Beginers' tutorial and demonstrations }}
+## Operating Mycobot 🖥️ Beginers' tutorial and demonstrations 🧑
 
 #### Beginer’s dir:-
 
