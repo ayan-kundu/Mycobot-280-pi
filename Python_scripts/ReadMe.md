@@ -5,8 +5,8 @@
 > Let's have a look here ...
 1. Set path
 
-![running fanning.py]()
+![running fanning.py](https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1361.jpg)
 
 2. then run
 
-![running fanning.py]()
+![running fanning.py](https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1362.jpg)
