@@ -41,7 +41,7 @@ Demo->
 By hard coding it is possible with the robot to make some Chinese pose which carries meaning in it e.g Lucy pose etc.
 
 _Demonstartion:_
-[pose]<img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/7826AE55-5A03-4618-B73E-91399FEED475.jpeg" width=75% height=50%>
+[pose]<img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/7826AE55-5A03-4618-B73E-91399FEED475.jpeg" width=55% height=50%>
 	
 	2. Fanning:
 It is able to move in a rhythmic way both horizontally and vertically synced that makes a fanning effect when a flat surface/fan is attached to the end effector. 
