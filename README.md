@@ -47,11 +47,11 @@ _Demonstartion:_
 It is able to move in a rhythmic way both horizontally and vertically synced that makes a fanning effect when a flat surface/fan is attached to the end effector. 
 
 _Demonstartion:_
-[Fanning]<img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1368.jpg" width=55% height=50%>	
+[Fanning]<img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1368.jpg" width=45% height=40%>	
 
 	3. Dancing:
 This is inspired by a YouTube video where the robot was made to swing side-by-side. It is hard programmed in a combination of some flexible poses that give it a dancing movement. It seems really nice when you run the code playing a music in background.
 
 _Demonstartion:_
-[Dancing]<img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1369.jpg" width=55% height=50%>
+[Dancing]<img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1369.jpg" width=45% height=40%>
 [![Watch the video](https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG_1039.MOV)]
