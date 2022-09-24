@@ -53,4 +53,5 @@ _Demonstartion:_
 This is inspired by a YouTube video where the robot was made to swing side-by-side. It is hard programmed in a combination of some flexible poses that give it a dancing movement. It seems really nice when you run the code playing a music in background.
 
 _Demonstartion:_
-![Dancing]<img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1369.jpg" width=55% height=50%>
+[Dancing]<img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1369.jpg" width=55% height=50%>
+![video](https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG_1039.MOV)
