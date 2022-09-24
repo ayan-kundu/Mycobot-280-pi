@@ -31,9 +31,9 @@ It is hard coding the robot which lets a beginer make the robot do some interest
 
 Demo->
 
-![Using myBlockly]<img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1356.jpg" width=50% height=50%>
+![Using myBlockly]<img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1356.jpg" width=75% height=50%>
 
-![Using python](https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1361.jpg)
+![Using python]<img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1361.jpg" width=75% height=50%>
 
 **Mycobot doing tasks->**
 	
@@ -41,13 +41,13 @@ Demo->
 By hard coding it is possible with the robot to make some Chinese pose which carries meaning in it e.g Lucy pose etc.
 
 _Demonstartion:_
-![pose](https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/7826AE55-5A03-4618-B73E-91399FEED475.jpeg)
+![pose]<img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/7826AE55-5A03-4618-B73E-91399FEED475.jpeg" width=75% height=50%>
 	
 	2. Fanning:
 It is able to move in a rhythmic way both horizontally and vertically synced that makes a fanning effect when a flat surface/fan is attached to the end effector. 
 
 _Demonstartion:_
-![Fanning](https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1368.jpg)	
+![Fanning]<img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1368.jpg" width=75% height=50%>	
 
 	3. Dancing:
 This is inspired by a YouTube video where the robot was made to swing side-by-side. It is hard programmed in a combination of some flexible poses that give it a dancing movement. It seems really nice when you run the code playing a music in background.
