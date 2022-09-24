@@ -54,4 +54,4 @@ This is inspired by a YouTube video where the robot was made to swing side-by-si
 
 _Demonstartion:_
 [Dancing]<img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1369.jpg" width=55% height=50%>
-![video](https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG_1039.MOV)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG_1039.MOV)
