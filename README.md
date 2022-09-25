@@ -33,7 +33,7 @@ Demo->
 
 [Using myBlockly]<p align="center"><img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1356.jpg" width=55% height=50%></p>
 
-[Using python]<img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1361.jpg" width=55% height=50%>
+[Using python]<p align="center"><img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1361.jpg" width=55% height=50%></p>
 
 **Mycobot doing tasks->**
 	
@@ -41,17 +41,19 @@ Demo->
 By hard coding it is possible with the robot to make some Chinese pose which carries meaning in it e.g Lucy pose etc.
 
 _Demonstartion:_
-[pose]<img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/7826AE55-5A03-4618-B73E-91399FEED475.jpeg" width=55% height=50%>
+[pose]<p align="center"><img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/7826AE55-5A03-4618-B73E-91399FEED475.jpeg" width=55% height=50%></p>
 	
 	2. Fanning:
 It is able to move in a rhythmic way both horizontally and vertically synced that makes a fanning effect when a flat surface/fan is attached to the end effector. 
 
 _Demonstartion:_
-[Fanning]<img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1368.jpg" width=45% height=40%>	
+[Fanning]<p align="center"><img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1368.jpg" width=45% height=40%></p>
 
 	3. Dancing:
 This is inspired by a YouTube video where the robot was made to swing side-by-side. It is hard programmed in a combination of some flexible poses that give it a dancing movement. It seems really nice when you run the code playing a music in background.
 
 _Demonstartion:_
-[Dancing]<img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1369.jpg" width=45% height=40%>
-[![Watch the video](https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG_1039.MOV)]
+[Dancing]<p align="center"><img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1369.jpg" width=45% height=40%></p>
+
+Go To Demonstartion Directory to watch some real time robotic tasks
+<p align="center">[DEMOnstations](https://github.com/ayan-kundu/Mycobot-280-pi/tree/main/Demonstrations)</p>
