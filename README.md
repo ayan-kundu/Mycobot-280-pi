@@ -57,4 +57,4 @@ _Demonstartion:_
 
 **Go To Demonstartion Directory to watch some real time robotic tasks**
 
-**[DEMO]**(https://github.com/ayan-kundu/Mycobot-280-pi/tree/main/Demonstrations)
+**(https://github.com/ayan-kundu/Mycobot-280-pi/tree/main/Demonstrations)**
