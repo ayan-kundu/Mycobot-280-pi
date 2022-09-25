@@ -53,8 +53,8 @@ _Demonstartion:_
 This is inspired by a YouTube video where the robot was made to swing side-by-side. It is hard programmed in a combination of some flexible poses that give it a dancing movement. It seems really nice when you run the code playing a music in background.
 
 _Demonstartion:_
-[Dancing]<p align="center"><img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1369.jpg" width=45% height=40%>
-[Video Link](https://share.icloud.com/photos/0fanRKrbR7AVfZBiKWxyNHGjg)</p>
+[Dancing]<p align="center"><img src="https://github.com/ayan-kundu/Mycobot-280-pi/blob/main/Demonstrations/IMG-1369.jpg" width=45% height=40%></p>
+<p align="center">[Video Link](https://share.icloud.com/photos/0fanRKrbR7AVfZBiKWxyNHGjg)</p>
 
 **Go To Demonstartion Directory to watch some real time robotic tasks**
 
